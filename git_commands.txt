@@ -1,0 +1,52 @@
+  5 clear                                                                                                          
+   6 rm testing.py                                                                                                  
+   7 ls                                                                                                             
+   8 git init                                                                                                       
+   9 ls -a                                                                                                          
+  10 dir                                                                                                            
+  11 ls -Force                                                                                                      
+  12 clear                                                                                                          
+  13 git status                                                                                                     
+  14 ls                                                                                                             
+  15 git status                                                                                                             
+   6 rm testing.py                                                                                                  
+   7 ls                                                                                                             
+   8 git init                                                                                                       
+   9 ls -a                                                                                                          
+  10 dir                                                                                                            
+  11 ls -Force                                                                                                      
+  12 clear                                                                                                          
+  13 git status                                                                                                     
+  14 ls                                                                                                             
+  15 git status                                                                                                     
+  16 git add testing.md                                                                                             
+  17 git status                                                                                                     
+  18 git commit -m "My first repo"                                                                                  
+  19 git status                                                                                                     
+  20 clear                                                                                                          
+  21 rm testing.md                                                                                                  
+  22 ls                                                                                                             
+  23 git status                                                                                                     
+  24 git restore testing.md                                                                                         
+  25 ls                                                                                                             
+  26 git status                                                                                                     
+  27 clear                                                                                                          
+  28 git history                                                                                                    
+  29 git history                                                                                                    
+                                                                                         
+  16 git add testing.md                                                                                             
+  17 git status                                                                                                     
+  18 git commit -m "My first repo"                                                                                  
+  19 git status                                                                                                     
+  20 clear                                                                                                          
+  21 rm testing.md                                                                                                  
+  22 ls                                                                                                             
+  23 git status                                                                                                     
+  24 git restore testing.md                                                                                         
+  25 ls                                                                                                             
+  26 git status                                                                                                     
+  27 clear                                                                                                          
+  28 git history                                                                                                    
+clear 
+history
+cd
