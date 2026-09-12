@@ -50,3 +50,5 @@
 clear 
 history
 cd
+git remote -v
+git push origin master
