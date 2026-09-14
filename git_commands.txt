@@ -1,5 +1,4 @@
-  5 clear                                                                                                          
-   6 rm testing.py                                                                                                  
+This is my some changes                                                                                                                                                                    
    7 ls                                                                                                             
    8 git init                                                                                                       
    9 ls -a                                                                                                          
