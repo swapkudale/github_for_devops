@@ -1,10 +1,12 @@
-name = "Swapnali"
-age = 30
+"""Simple Python program demonstrating basic variables and conditionals."""
 
-print("Hello", name)
-print("Your age is", age)
+NAME = "Swapnali"
+AGE = 30
 
-if age >= 18:
-    print("You are an adult")
+print("Hello", NAME)
+print("Your age is", AGE)
+
+if AGE >= 18:
+print("You are an adult")
 else:
-    print("You are a minor")
+print("You are a minor")
